@@ -49,5 +49,5 @@ This PHP-based web application, developed for Scandiweb Junior Developer Test Ta
 
 ## Usage
 
-1. Visit the Products List page at [http://localhost:8000/index.php](http://localhost:8000) to view and manage existing products.
-2. Navigate to [http://localhost:8000/add_product.php](http://localhost:8000/add-product.php) to add a new product.
+1. Visit the Products List page at [http://localhost:8000/](http://localhost:8000) to view and manage existing products.
+2. Navigate to [http://localhost:8000/add-product.php](http://localhost:8000/add-product.php) to add a new product.

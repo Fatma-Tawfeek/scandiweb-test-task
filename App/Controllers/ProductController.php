@@ -162,8 +162,8 @@ class ProductController extends Controller
                 $stmt->bindParam(":id", $id);
                 $stmt->execute();
             }
-            // header('location: index.php');
-            // die();
+            header('location: index.php');
+            die();
         }
     }
 }
